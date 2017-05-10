@@ -1,7 +1,7 @@
 {
     "app_id" : "com.university.iLernus",
     "appname": "iLernus",
-    "versioncode" : "20171",
+    "versioncode" : "20172",
     "versionname" : "3.2.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
