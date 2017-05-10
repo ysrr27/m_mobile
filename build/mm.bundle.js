@@ -51884,9 +51884,9 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "versioncode" : "2017",
+    "app_id" : "com.university.iLernus",
+    "appname": "iLernus",
+    "versioncode" : "20171",
     "versionname" : "3.2.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
@@ -51896,7 +51896,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://university.ilernus.com/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
